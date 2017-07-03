@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LZP.iml" filepath="$PROJECT_DIR$/LZP.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lzplibrary/lzplibrary.iml" filepath="$PROJECT_DIR$/lzplibrary/lzplibrary.iml" />
     </modules>
   </component>
 </project>
